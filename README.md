@@ -17,7 +17,7 @@
 - Secretario del CFP 414.
 
 ### Socorril - Revestimiento de caños para gasoductos (2007 - 2008)
-- Sistema de etiquetado del revestimiento (mantenimiento)
+- Mantenimiento del Sistema Informatico para el etiquetado del revestimiento
 - Control de calidad
 
 ## Educación
