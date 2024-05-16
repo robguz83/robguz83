@@ -1,6 +1,6 @@
 # Hola, soy Roberto! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un mero Desarrollador de aplicaciones web con profunda experiencia en Bases de datos. Apasionado por todo lo relacionado a nuevas técnologias. Estudié Lic. en Sistemas Informaticos (Plan 90) en la Facultad de Informática de la Universidad Nacional de La Plata.
+¡Bienvenido a mi perfil de GitHub! Soy un mero Desarrollador de aplicaciones web con profunda experiencia en Bases de datos. Apasionado por todo lo relacionado a nuevas tecnologías. Estudié Lic. en Sistemas Informáticos (Plan 90) en la Facultad de Informática de la Universidad Nacional de La Plata.
 
 ## Experiencia Laboral
 
@@ -8,21 +8,21 @@
 - Gestor de proyectos
 - Desarrollador web
 - Administrador de bases de datos SQL
-- Promotor del uso de nuevas tecnologias
+- Promotor del uso de nuevas tecnologías
 - Mantenimiento de aplicaciones.
 
 ### Centro de Formación Profesional N° 414 de La Plata (2008 - 2014)
-- Desarrollador de la web de la institucion
+- Desarrollador de la web de la institución
 - Instructor del curso de Diseño de Paginas Web
 - Secretario del CFP 414.
 
 ### Socorril - Revestimiento de caños para gasoductos (2007 - 2008)
-- Mantenimiento del Sistema Informatico para el etiquetado del revestimiento
+- Mantenimiento del Sistema Informático para el etiquetado del revestimiento
 - Control de calidad
 
 ## Educación
 - Lic. en Sistemas Informáticos - Plan 90 (hasta 3er año completo) - Facultad de Informática (UNLP)
-- Téc. Electromecánico - Escuela de Educacion Técnica Nro 1 de Berazategui
+- Téc. Electromecánico - Escuela de Educación Técnica Nro 1 de Berazategui
 
 ### Cursos (certificados)
 - Redux a fondo - Clases del Bootcamp de React
@@ -39,29 +39,29 @@ Aquí podrías mencionar algunos de tus proyectos destacados, con enlaces a los 
 
 ## Habilidades
 
-- Actitud Proactiva para el aprendizaje y la adopcion de nuevas tecnologias y prácticas de desarrollo
-- Compromiso con la mejora continua (refactorizacion, pruebas y optimizacion)
-- Familiaridad con las tecnologias agiles
-- Capacidad para llevar adelante equipos multidiciplinarios
+- Actitud Proactiva para el aprendizaje y la adopción de nuevas tecnologías y prácticas de desarrollo
+- Compromiso con la mejora continua (refactorización, pruebas y optimización)
+- Familiaridad con las tecnologías ágiles
+- Capacidad para llevar adelante equipos multidisciplinarios
 - Comunicacion eficaz de ideas tecnicas a colegas no tecnicos
-- Habilidad para investigar y aprender nuevas tecnologias, framework y herramientas de forma independiente.
+- Habilidad para investigar y aprender nuevas tecnologías, framework y herramientas de forma independiente.
 - Capacidad para resolver problemas de forma eficiente y lógica
 - Experiencia en configurar y trabajar con entornos de desarrollo tanto local como remoto
 - Uso de herramientas de desarrollo (VSCode, Sublime Text, Replit, Cloud9)
 - Conocimientos basicos de administracion de servidores y redes
-- Experiencia en la configuracion y despliegue de aplicaciones en servidores/plataformas en la nube (AWS, Google Cloud Platform, Vercel, Supabase, Netlify, Digital Ocean)
+- Experiencia en la configuración y despliegue de aplicaciones en servidores/plataformas en la nube (AWS, Google Cloud Platform, Vercel, Supabase, Netlify, Digital Ocean)
 - Uso de HTTPS, autenticacion y autorizacion en aplicaciones
-- Conciencia sobre practicas de seguridad en el desarrollo web (XSS, CSRF, inyeccion SQL)
-- Experiencia en la creacion de aplicaciones escalables y mantenibles
+- Conciencia sobre prácticas de seguridad en el desarrollo web (XSS, CSRF, inyección SQL)
+- Experiencia en la creación de aplicaciones escalables y mantenibles
 - Experiencia en las arquitecturas de aplicaciones (MVC, MVVM)
-- Uso de sistemas de control de versiones GIT (branching, merging, resolucion de conflictos)
+- Uso de sistemas de control de versiones GIT (branching, merging, resolución de conflictos)
 
 ### Desarrollo Backend
 - Javascript (Node.js, Bun, Express, NestJS)
 - Python (Flask)
-- Bases de datos SQL (MSSQL, MySQL, PostgreeSQL)
+- Bases de datos SQL (MSSQL, MySQL, PostgreSQL)
 - Bases de datos NOSQL (MongoDB)
-- Creacion de API RESTful y GraphQL
+- Creación de API RESTful y GraphQL
   
 ### Desarrollo Frontend
 - HTML5
@@ -69,10 +69,11 @@ Aquí podrías mencionar algunos de tus proyectos destacados, con enlaces a los 
 - Javascript (React, NextJS, Vue)
 - Python (Flask)
 - Diseño responsivo
-- Experiencia en la creacion de interfaces de usuario
+- Experiencia en la creación de interfaces de usuario
 - Manejo de API RESTful y GraphQL
 - Bases de datos NOSQL (MongoDB)
-- Creacion de API RESTful y GraphQL
+- Creación de API RESTful y GraphQL
   
+
 
 
